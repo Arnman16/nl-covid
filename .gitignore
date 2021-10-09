@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-todo.md
+vscode.bat
 
 
 # local env files
